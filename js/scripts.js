@@ -211,7 +211,7 @@
     
     if (attemptsLeft === 0) {
       errorMessage.textContent = lockedOutMessage + " " + ttT();
-      } else if (input === "kahitano" /*|| input == "abby"*/) {
+      } else if (input === "hahaha123" /*|| input == "abby"*/) {
         input1.style.backgroundColor = "rgba(255, 0, 0, 0.5)";
         input1.disabled = true;
         button.disabled = true;
